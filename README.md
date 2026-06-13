@@ -1,9 +1,20 @@
 # Aprendendo Java ☕
 
+![img.png](img.png)
 
+### Versão Do java
+java -version
+java version "21.0.9" 2025-10-21 LTS
+Java(TM) SE Runtime Environment (build 21.0.9+7-LTS-338)
+Java HotSpot(TM) 64-Bit Server VM (build 21.0.9+7-LTS-338, mixed mode, sharing)
 
 Olá! Meu nome é Kauan Felipe.
 
+Sou uma pessoa com deficiência auditiva e me comunico em Libras e Português.
+
+Sempre que vou postar algo, gosto de deixar uma mensagem carinhosa:
+
+*I Love the World of Programming* ❤️ ![img_1.png](img_1.png)
 
 
 Este repositório foi criado para registrar minha jornada de aprendizado em Java e programação.
@@ -34,7 +45,24 @@ Por isso, decidi começar a estudar Java por conta própria para fortalecer minh
 
 - Lógica de programação
 
+## Futuramente pretendo estuda 
 
+
+- Estrutura de Dados
+
+- Banco de Dados (SQL)
+
+- Spring Boot
+
+- APIs
+
+## programação para Web (Basíco)
+
+- JavaScript
+
+- HTML
+
+- CSS
 
 ## Projetos
 
@@ -42,19 +70,22 @@ Por isso, decidi começar a estudar Java por conta própria para fortalecer minh
 
 ### Cálculo de Média
 
-
-
-Projeto simples desenvolvido para praticar:
-
-
-
+Projetos simples desenvolvido para praticar:
 - Entrada de dados com Scanner
+- Variaveis
+- Operações matemáticas
+- Exibição de resultado no console
+- 
+### Folha de pagamento simples
+Projeto desenvolvido para praticar:
 
-- Variáveis
-
+- Quantidade de horas trabalhadas
+- Cálculo do valor a receber
+- Entrada e saída de dados
 - Operações matemáticas
 
-- Exibição de resultados no console
+
+
 
 
 
@@ -74,6 +105,9 @@ Meu objetivo é construir uma base sólida em programação antes de avançar pa
 
 - Programação Orientada a Objetos (POO)
 
+- Estrutura de Dados
+
+- Banco de Dados (SQL)
 
 
 ## Tecnologias
