@@ -18,8 +18,8 @@ public class FolhaDePagamentoSimples {
        horariosTrabalhada = lendoDados.nextInt();
 
        int salarioBruto = valorHoras * horariosTrabalhada;
-       double desconto = salarioBruto * 0.08;
-       double bonus = salarioBruto * 0.05;
+       double desconto = salarioBruto * 0.08; // (Desconto  * 8) / 100
+       double bonus = salarioBruto * 0.05; // (Bonus * 5)/100
 
        double salarioLiquido = salarioBruto - desconto + bonus;
 
