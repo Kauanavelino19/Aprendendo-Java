@@ -15,3 +15,4 @@ public class TabuadaDeEstrutudaRepita {
         }while(cont <= 10);
     }
 }
+
